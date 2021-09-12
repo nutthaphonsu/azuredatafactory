@@ -1,0 +1,9 @@
+{
+	"name": "nuttpcdatafactory",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f84aa935-b03d-47d5-9659-425b4419619a",
+		"tenantId": "d212a5f2-1f57-4df1-aafc-c70905b74bf4"
+	}
+}
