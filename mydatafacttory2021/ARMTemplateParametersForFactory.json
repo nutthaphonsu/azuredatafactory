@@ -5,11 +5,17 @@
 		"factoryName": {
 			"value": "mydatafacttory2021"
 		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
 		"AzureStorageLinkedService_connectionString": {
 			"value": ""
 		},
 		"SqlServerLinkedService_connectionString": {
 			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://mygen2acct.dfs.core.windows.net"
 		}
 	}
 }
