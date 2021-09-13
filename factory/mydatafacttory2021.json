@@ -1,0 +1,9 @@
+{
+	"name": "mydatafacttory2021",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5e222a40-3daa-4739-8f42-644c6d7d1c4b",
+		"tenantId": "d212a5f2-1f57-4df1-aafc-c70905b74bf4"
+	}
+}
