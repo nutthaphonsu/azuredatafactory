@@ -1,0 +1,16 @@
+{
+	"name": "SourceDataset_fw9",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "SqlServerLinkedService",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SqlServerTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "emp"
+		}
+	}
+}
